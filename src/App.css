@@ -1,0 +1,73 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+input {
+  display: block;
+}
+
+.description {
+  display: block;
+  font-size: 10px;
+}
+
+.form {
+  margin: 2rem;
+}
+
+.s-xs {
+  font-size: 14px;
+}
+
+.s-sm {
+  font-size: 18px;
+}
+
+.s-md {
+  font-size: 22px;
+}
+
+.s-lg {
+  font-size: 26px;
+}
+
+.s-xl {
+  font-size: 30px;
+}
+
+.r-xs {
+  border-radius: 5px;
+}
+
+.r-sm {
+  border-radius: 10px;
+}
+
+.r-md {
+  border-radius: 15px;
+}
+
+.r-lg {
+  border-radius: 20px;
+}
+
+.r-xl {
+  border-radius: 25px;
+}
+
+span {
+  color: red;
+}
+
+.unstyled {
+  border: 0px;
+  border-radius: 0;
+}
+
+.filled {
+  background-color: antiquewhite;
+}
